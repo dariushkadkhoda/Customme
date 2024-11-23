@@ -1,0 +1,9 @@
+.main{
+    background-color: red;
+    &:hover{
+        background-color: blue;
+    }
+    div{
+        background-color: burlywood;
+    }
+}
